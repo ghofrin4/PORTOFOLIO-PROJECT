@@ -276,7 +276,7 @@ h2 {
 }
 
 /* Warna untuk masing-masing skill dan sesuai persentase */
-.progress-bar.progress-bar.public-speaking {
+.progress-bar.progress-bar.singing {
     background-color: #a4bda4;
     width: 78%;
 }
@@ -288,7 +288,7 @@ h2 {
 
 .progress-bar.canva {
     background-color: #a4bda4;
-    width: 80%;
+    width: 76%;
 }
 
 
